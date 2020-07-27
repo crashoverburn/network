@@ -1,6 +1,6 @@
 ﻿import smtplib 
 gmailaddress = input("what is your gmail address? \n ")
-gmailpassword = input("what is the password for that email address? \n  ")
+gmailpassword = input("what is the password for that email address, give me the pwd? \n  ")
 mailto = input("what email address do you want to send your message to? \n ")
 msg = input("What is your message? \n ")
 mailServer = smtplib.SMTP('smtp.gmail.com' , 587)
