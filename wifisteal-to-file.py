@@ -29,9 +29,9 @@ file = open("wifipasswords.txt","w")
 file.write(final_output)
 file.close()		
 
-my_email = "mikeelmagomagician@gmail.com"
-email = "mikeelmagomagician@gmail.com"
-password = "ABCDE1234"
+my_email = "xxxxxxxxxxxxx@gmail.com"
+email = "xxxxxxxxxxxxxx@gmail.com"
+password = "xxxxxxxxx"
 
 print(" Final Output: " + str(final_output))
 
