@@ -5,3 +5,5 @@ this script works with windows 10 and will dump all the wifi pwd from a machine 
 You can also create an exe with pyinstaller
 
 Actually is undetectable by any Windows Defender or Anti Virus as a threat.
+
+if you want to help and create more scripts like this write to uktechmike@gmail.com
