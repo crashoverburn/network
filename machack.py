@@ -10,7 +10,7 @@ def change_mac_addr(interface,mac):
         subprocess.call(["ifconfig",interface,"up"])
 
 def main():
-        interface = str(input("[*] Enter the interface to change mac addr: "))
+        interface = str(input("[*] HOw to hack a MAC Enter the interface to change mac addr: "))
         new_mac_addr = input("[*] Enter Mac Address to Change :")
         before_change = subprocess.check_output(["ifconfig",interface])
         change_mac_addr(interface, new_mac_addr)
